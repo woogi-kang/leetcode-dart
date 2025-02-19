@@ -45,13 +45,17 @@ The output will show:
 
 ## Example Output
 
-[Problem] Two Sum\n
-Result: [0, 1]\n
-Time consumed: 52 μs\n
+```
+[Problem] Two Sum
+Result: [0, 1]
+Time consumed: 52 μs
+Memory: 23.45 MB
 
-[Problem] Two Sum - Large Input\n
-Result: [9999, 9998]\n
-Time consumed: 2351 μs\n
+[Problem] Two Sum - Large Input
+Result: [9999, 9998]
+Time consumed: 2351 μs
+Memory: 24.12 MB
+```
 
 ## Solutions
 
