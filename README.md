@@ -49,12 +49,12 @@ The output will show:
 ```
 [Problem] Two Sum
 Result: [0, 1]
-Time consumed: 52 μs
+Time consumed: 1 ms
 Memory Impact: 15.2 MB
 
 [Problem] Two Sum - Large Input
 Result: [9999, 9998]
-Time consumed: 2351 μs
+Time consumed: 235 ms
 Memory Impact: 24.5 MB
 ```
 

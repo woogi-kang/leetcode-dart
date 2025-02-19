@@ -19,7 +19,7 @@ class Utils {
     
     print('\n[Problem] $problemName');
     print('Result: $result');
-    print('Time consumed: ${stopwatch.elapsedMicroseconds} μs');
+    print('Time consumed: ${stopwatch.elapsedMilliseconds} ms');
     print('Memory Impact: $memoryUsage');
   }
 
