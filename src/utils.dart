@@ -1,7 +1,6 @@
-import 'dart:io';
 import 'dart:developer' as developer;
 import 'package:intl/intl.dart';
-import 'package:vm_service/vm_service.dart' show MemoryUsage, VM, VmService;
+import 'package:vm_service/vm_service.dart' show MemoryUsage;
 import 'package:vm_service/vm_service_io.dart' show vmServiceConnectUri;
 
 class Utils {
