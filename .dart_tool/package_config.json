@@ -32,6 +32,12 @@
       "languageVersion": "3.1"
     },
     {
+      "name": "clock",
+      "rootUri": "file:///Users/woogi/.pub-cache/hosted/pub.dev/clock-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.4"
+    },
+    {
       "name": "collection",
       "rootUri": "file:///Users/woogi/.pub-cache/hosted/pub.dev/collection-1.19.1",
       "packageUri": "lib/",
@@ -84,6 +90,12 @@
       "rootUri": "file:///Users/woogi/.pub-cache/hosted/pub.dev/http_parser-4.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/woogi/.pub-cache/hosted/pub.dev/intl-0.20.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
     },
     {
       "name": "io",
@@ -293,10 +305,10 @@
       "name": "leetcode_dart",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     }
   ],
-  "generated": "2025-02-19T04:20:02.282263Z",
+  "generated": "2025-02-19T04:43:31.719902Z",
   "generator": "pub",
   "generatorVersion": "3.6.1",
   "flutterRoot": "file:///Users/woogi/fvm/versions/3.27.3",

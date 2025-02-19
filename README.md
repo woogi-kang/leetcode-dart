@@ -14,7 +14,8 @@ This repository contains my solutions to LeetCode problems implemented in Dart.
 
 ## Prerequisites
 
-- Dart SDK >=2.12.0
+- Dart SDK >=2.14.0
+- Git (optional, for cloning)
 
 ## Setup
 
@@ -31,17 +32,17 @@ This repository contains my solutions to LeetCode problems implemented in Dart.
 
 ## Running Solutions
 
-Each solution can be run directly using the Dart CLI:
+Each solution can be run with the VM service enabled for memory tracking:
 
 ```bash
-dart run src/two_sum.dart
+dart --enable-vm-service run src/two_sum.dart
 ```
 
 The output will show:
 - Problem name
 - Solution result
 - Time consumed (in microseconds)
-- Memory usage (approximate)
+- Memory impact (heap usage)
 
 ## Example Output
 
@@ -49,12 +50,12 @@ The output will show:
 [Problem] Two Sum
 Result: [0, 1]
 Time consumed: 52 μs
-Memory: 23.45 MB
+Memory Impact: 15.2 MB
 
 [Problem] Two Sum - Large Input
 Result: [9999, 9998]
 Time consumed: 2351 μs
-Memory: 24.12 MB
+Memory Impact: 24.5 MB
 ```
 
 ## Solutions
