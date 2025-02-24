@@ -305,10 +305,10 @@
       "name": "leetcode_dart",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.1"
     }
   ],
-  "generated": "2025-02-19T04:43:31.719902Z",
+  "generated": "2025-02-24T09:22:57.113591Z",
   "generator": "pub",
   "generatorVersion": "3.6.1",
   "flutterRoot": "file:///Users/woogi/fvm/versions/3.27.3",
